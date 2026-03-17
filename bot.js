@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'YOUR_SERVER_IP', // example: play.example.com
-  port: 25565,
+  host: 'node-sg-free-01.tickhosting.com', // example: play.example.com
+  port: 50288,
   username: 'RenderBot'
 })
 
