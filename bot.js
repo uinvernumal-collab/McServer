@@ -17,8 +17,8 @@ bot.on('end', () => {
 
 function startBot() {
   mineflayer.createBot({
-    host: 'YOUR_SERVER_IP',
-    port: 25565,
+    host: 'node-sg-free-01.tickhosting.com',
+    port: 50288,
     username: 'RenderBot'
   })
 }
