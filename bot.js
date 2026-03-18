@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'node-sg-free-01.tickhosting.com', // example: play.example.com
+  host: 'therelax.sdlf.fun', // example: play.example.com
   port: 50288,
   username: 'RenderBot'
 })
@@ -17,7 +17,7 @@ bot.on('end', () => {
 
 function startBot() {
   mineflayer.createBot({
-    host: 'node-sg-free-01.tickhosting.com',
+    host: 'therelax.sdlf.fun',
     port: 50288,
     username: 'RenderBot'
   })
