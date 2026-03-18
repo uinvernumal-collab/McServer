@@ -12,8 +12,8 @@ function startBot() {
 
     // Wait a bit before sending commands
     setTimeout(() => {
-      bot.chat('/register password password')
-      bot.chat('/login password')
+      bot.chat('/register  TheBotOfTheRelaxTg TheBotOfTheRelaxTg')
+      bot.chat('/login TheBotOfTheRelaxTg')
     }, 3000)
   })
 
